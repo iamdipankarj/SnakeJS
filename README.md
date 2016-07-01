@@ -1,2 +1,2 @@
 # SnakeJS
-The classic game of Snake written in JavaScript.
+The classic popular arcade game of Snake written in JavaScript.
